@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://OBSLabs.github.com/sitemap.xml 
+Sitemap: http://hackers.virool.com/sitemap.xml 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: General | My Octopress Blog]]></title>
-  <link href="http://OBSLabs.github.com/blog/categories/general/atom.xml" rel="self"/>
-  <link href="http://OBSLabs.github.com/"/>
-  <updated>2013-03-19T15:08:12-07:00</updated>
-  <id>http://OBSLabs.github.com/</id>
+  <title><![CDATA[Category: General | Virool Geeks Blogs]]></title>
+  <link href="http://hackers.virool.com/blog/categories/general/atom.xml" rel="self"/>
+  <link href="http://hackers.virool.com/"/>
+  <updated>2013-03-19T15:17:49-07:00</updated>
+  <id>http://hackers.virool.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Hackers]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Welcome to Virool Geeks Blog]]></title>
-    <link href="http://OBSLabs.github.com/blog/2013/03/19/welcome-to-virool-geeks-blog/"/>
+    <link href="http://hackers.virool.com/blog/2013/03/19/welcome-to-virool-geeks-blog/"/>
     <updated>2013-03-19T14:58:00-07:00</updated>
-    <id>http://OBSLabs.github.com/blog/2013/03/19/welcome-to-virool-geeks-blog</id>
+    <id>http://hackers.virool.com/blog/2013/03/19/welcome-to-virool-geeks-blog</id>
     <content type="html"><![CDATA[<p>Hello world!</p>
 ]]></content>
   </entry>
