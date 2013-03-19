@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://OBSLabs.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://hackers.virool.com
+title: Virool Geeks Blogs
+subtitle: This is blog of hackers who work at Virool.
+author: Hackers
 simple_search: http://google.com/search
 description:
 
