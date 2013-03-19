@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://OBSLabs.github.com/blog/archives/</loc>
-        <lastmod>2013-03-19T14:40:38-07:00</lastmod>
+        <loc>http://hackers.virool.com/blog/2013/03/19/welcome-to-virool-geeks-blog/</loc>
+        <lastmod>2013-03-19T15:02:10-07:00</lastmod>
     </url>
     <url>
-        <loc>http://OBSLabs.github.com/</loc>
-        <lastmod>2013-03-19T14:40:38-07:00</lastmod>
+        <loc>http://hackers.virool.com/blog/archives/</loc>
+        <lastmod>2013-03-19T15:02:10-07:00</lastmod>
     </url>
     <url>
-        <loc>http://OBSLabs.github.com/robots.txt</loc>
+        <loc>http://hackers.virool.com/</loc>
+        <lastmod>2013-03-19T15:02:10-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://hackers.virool.com/robots.txt</loc>
         <lastmod>2013-03-19T14:40:38-07:00</lastmod>
     </url>
 </urlset>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Virool Geeks Blogs]]></title>
-  <link href="http://hackers.virool.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: General | Virool Geeks Blogs]]></title>
+  <link href="http://hackers.virool.com/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://hackers.virool.com/"/>
   <updated>2013-03-19T15:17:49-07:00</updated>
   <id>http://hackers.virool.com/</id>
